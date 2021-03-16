@@ -24,7 +24,10 @@ This app was built with the following technologies:
 
 ## 2. Video Example
 
-You can watch this video to see the app in action:
+You can view the app online here:
+https://vescartinq.github.io/GAME-OF-LIFE-Skylab-challenge-JAVASCRIPT/
+
+or you can watch this video to see the app in action:
 https://youtu.be/MJ-JLKmVhtM
 
 ## 3. Installation
